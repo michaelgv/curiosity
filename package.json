@@ -1,0 +1,20 @@
+{
+  "name": "curiosity",
+  "version": "1.0.2",
+  "description": "Curisotiy, named after the Curiosity Rover is an automation tool built entirely with NodeJS, like Puppet, Chef, Ansible ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "automatic",
+    "curiosity"
+  ],
+  "author": "Michaelgv",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "node-notifier": "^5.1.2"
+  }
+}
